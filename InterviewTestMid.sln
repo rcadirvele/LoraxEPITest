@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTestMid", "InterviewTestMid\InterviewTestMid.csproj", "{0604D7B8-BB46-4B07-BF4F-FB23AF6E3178}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{349F4CC6-062D-4768-B193-A4A9A6597D3E}"
+	ProjectSection(SolutionItems) = preProject
+		Publish\interviewTest-build.yml = Publish\interviewTest-build.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTestMid.Tests", "InterviewTestMid.Tests\InterviewTestMid.Tests.csproj", "{3E8B8667-F32B-433A-97ED-83E50D444F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0604D7B8-BB46-4B07-BF4F-FB23AF6E3178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0604D7B8-BB46-4B07-BF4F-FB23AF6E3178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0604D7B8-BB46-4B07-BF4F-FB23AF6E3178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0604D7B8-BB46-4B07-BF4F-FB23AF6E3178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8B8667-F32B-433A-97ED-83E50D444F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8B8667-F32B-433A-97ED-83E50D444F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8B8667-F32B-433A-97ED-83E50D444F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8B8667-F32B-433A-97ED-83E50D444F44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {364C0544-88D0-45FF-8343-000BBD24EA11}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,46 @@
+{
+  "PartId": 11170,
+  "PartNbr": "101687",
+  "PartDesc": "LABEL UNPRINTED",
+  "Meta": {
+    "PartClassification": {
+      "LookId": 2,
+      "LookNbr": "PACK",
+      "LookDesc": "Packaging",
+      "LookExtra": "Secondary Packaging"
+    },
+    "PartMasterType": {
+      "LookId": 605,
+      "LookNbr": "F05",
+      "LookDesc": "Label"
+    },
+    "PartColour": {
+      "LookId": 1,
+      "LookNbr": "Cl",
+      "LookDesc": "No colour"
+    },
+    "PartOpacity": {
+      "LookId": 3,
+      "LookNbr": "Op",
+      "LookDesc": "Opaque"
+    }
+  },
+  "PartWeight": {
+    "UoM": 10,
+    "Value": 2
+  },
+  "ConversionsApplied": false,
+  "Materials": [
+    {
+      "Material": {
+        "LookId": 1000,
+        "LookNbr": "PapPap",
+        "LookDesc": "Paper"
+      },
+      "Percentage": 100,
+      "MatrIsBarrier": null,
+      "MatrIsDensifier": null,
+      "MatrIsOpacifier": null
+    }
+  ]
+}
