@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InterviewTestMid
-build_property.ProjectDir = /Users/ram/Documents/LoraxInterview/InterviewTestMid/
+build_property.ProjectDir = /Users/ram/LoraxInterview/LoraxEPITest/InterviewTestMid/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
